@@ -1,5 +1,5 @@
 {
-  "name": "bot-hades188",
+  "name": "bot-nara188",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "node-telegram-bot-api": "^0.66.0"
-  },
-  "description": ""
+  }
 }
